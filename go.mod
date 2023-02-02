@@ -8,3 +8,4 @@ require (
 	github.com/json-iterator/go v1.1.9
 	github.com/valyala/fasthttp v1.9.0
 )
+
